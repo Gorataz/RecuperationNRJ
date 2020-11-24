@@ -12,7 +12,7 @@ GND   -> GND
 
 Servo  Arduino
 GND -> GND (noir ou marron)
-5V -> 5V (rouge)
+5V -> 5V (rouge)hufhuveFQbuhovefhbuFZQbiufq
 Signal -> 6 (orange ou blanc)
 
 */
