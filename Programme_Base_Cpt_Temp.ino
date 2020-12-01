@@ -7,7 +7,7 @@ byte data[12];
 byte addr[8];
 float celsius;
 
-OneWire  ds(3);  // on pin 3 (a 4.7K resistor is necessary)
+OneWire  ds(3);  // on pin 3 )
 
 
 void setup(void) 
